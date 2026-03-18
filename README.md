@@ -10,7 +10,7 @@ pour prédire la surperformance des actions et construire un portefeuille optima
 
 ---
 
-## 🎯 Objectif
+##  Objectif
 
 Construire un pipeline complet de A à Z qui :
 
@@ -21,7 +21,7 @@ Construire un pipeline complet de A à Z qui :
 
 ---
 
-## 🏗️ Architecture du projet
+##  Architecture du projet
 ```
 Africa_ml_stocks/
 │
@@ -55,7 +55,7 @@ Africa_ml_stocks/
 
 ---
 
-## 🔄 Pipeline
+##  Pipeline
 ```
 Données JSE (yfinance)
         ↓
@@ -73,7 +73,7 @@ Portefeuille optimal
 
 ---
 
-## 📊 Résultats
+##  Résultats
 
 | Métrique | Valeur |
 |---|---|
@@ -89,7 +89,7 @@ Portefeuille optimal
 
 ---
 
-## 💼 Portefeuille final
+##  Portefeuille final
 
 | Ticker | Entreprise | Poids |
 |---|---|---|
@@ -101,7 +101,7 @@ Portefeuille optimal
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ### 1. Cloner le projet
 ```bash
@@ -123,7 +123,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Utilisation
+##  Utilisation
 
 ### Reproduire le pipeline complet
 ```bash
@@ -147,7 +147,7 @@ jupyter notebook
 
 ---
 
-## ⚠️ Limites et pistes d'amélioration
+##  Limites et pistes d'amélioration
 
 **Limites actuelles :**
 - Fondamentaux statiques — un seul snapshot pour toute la période
@@ -163,7 +163,7 @@ jupyter notebook
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 - **Python 3.11**
 - **yfinance** — collecte des données boursières
@@ -174,7 +174,7 @@ jupyter notebook
 
 ---
 
-## 👤 Auteur
+##  Auteur
 
 **AFODJI Abdul Andil Toyin**  
 [LinkedIn](www.linkedin.com/in/abdul-andil-toyin-afodji-aa2956226) · 
