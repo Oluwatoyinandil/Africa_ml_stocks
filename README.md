@@ -176,7 +176,7 @@ jupyter notebook
 
 ## 👤 Auteur
 
-**Ton Nom**  
+**AFODJI Abdul Andil Toyin**  
 [LinkedIn](www.linkedin.com/in/abdul-andil-toyin-afodji-aa2956226) · 
 [GitHub](https://github.com/Oluwatoyinandil)
 
